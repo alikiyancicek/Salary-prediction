@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/alikiyancicek/Desktop/ai-project/env"
+VIRTUAL_ENV="/Users/alikiyancicek/Salary-prediction-app-with-streamlit/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
