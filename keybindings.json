@@ -1,0 +1,4 @@
+{
+  "key": "ctrl+m ctrl+s",
+  "command": "multiCommand.streamlitActiveFile"
+}
